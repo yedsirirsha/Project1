@@ -1,2 +1,2 @@
 echo "Hello world"
-echo " i am from master"
+echo " i am from Project1.2"
